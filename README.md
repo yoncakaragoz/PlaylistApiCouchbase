@@ -19,7 +19,7 @@ This is a web service whose datasource is Couchbase, which can create playlists 
   - remove track to playlist endpoint 
 
 
-# Used technologies
+# Used Technologies
 
 - Spring Boot
 - Couchbase
